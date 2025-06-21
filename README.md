@@ -17,7 +17,7 @@ This project is a simple, responsive landing page that mimics the aesthetic and 
 ## Getting Started
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/netflix-clone-landing-page.git
+    git clone https://github.com/jlavanya2/Netflix-clone-website.git
     ```
 2. Open the `index.html` file in your favorite web browser to view the landing page.
 
